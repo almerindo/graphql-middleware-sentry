@@ -1,6 +1,6 @@
 {
   "name": "graphql-middleware-sentry",
-  "description": "Sentry plugin for GraphQL Middleware",
+  "description": "Sentry plugin for GraphQL Middleware - modified by Almerindo",
   "version": "0.0.0-semantic-release",
   "files": [
     "dist"
@@ -27,6 +27,11 @@
       "name": "Bruno Scheufler",
       "email": "bruno@brunoscheufler.com",
       "url": "https://github.com/BrunoScheufler"
+    },
+    {
+      "name": "Almerindo Rehem",
+      "email": "almerindo.rehem@gmail.com",
+      "url": "https://github.com/almerindo"
     }
   ],
   "devDependencies": {
@@ -47,7 +52,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BrunoScheufler/graphql-middleware-sentry.git"
+    "url": "https://github.com/almerindo/graphql-middleware-sentry.git"
   },
   "peerDependencies": {
     "@sentry/node": "^5.10.2",
